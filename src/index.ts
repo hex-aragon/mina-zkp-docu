@@ -1,2 +1,3 @@
-export * from './FungibleToken.js';
-export * from './FungibleTokenAdmin.js';
+import { ZkDocumentContract } from './zkDocumentContract.js';
+
+export { ZkDocumentContract };
